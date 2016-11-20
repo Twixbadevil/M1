@@ -4,9 +4,13 @@ Première année de master ISI
 
 Commande git :
 
-Creation : git clone https://github.com/Twixbadevil/M1.git
+Creation :
 
-Ajout : git add < dossier/fichier >
+		git clone https://github.com/Twixbadevil/M1.git
+
+Ajout : 
+
+		git add < dossier/fichier >
 
 		git add --all
 
@@ -15,4 +19,6 @@ Ajout : git add < dossier/fichier >
 		git push -u origin master
 
 
-Actualisation : git pull 
+Actualisation : 
+		
+		git pull 
