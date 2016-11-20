@@ -4,7 +4,7 @@ Première année de master ISI
 
 Commande git :
 
-Creation :
+Initialisation :
 
 		git clone https://github.com/Twixbadevil/M1.git
 
