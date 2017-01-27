@@ -1,0 +1,15 @@
+restaurant : 
+			Note	Ancienté(jour)		nb_visite/mois
+ru : 		4.5		1 					12
+sub : 		3.6		2					4
+macdo : 	2.2 	5					1.2
+kebab : 	1.5		3					0.4
+bk : 		4.0		12					2
+speed : 	3.5		15					0.4
+kfc : 		1.2		4					1.6
+asiat :		2.7		6					1.6
+triome : 	0.5		7					0.4
+muligane :	3.3		8					0.4
+
+
+4*4.5
